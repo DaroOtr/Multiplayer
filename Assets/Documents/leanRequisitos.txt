@@ -1,0 +1,13 @@
+Desconecxion (Por que quiero y por time out)
+Representacion de pj con movimiento
+ping // Medio hechjur
+Mensajes Ordanables 
+Mensajes de obligatorios
+kick
+rollback
+
+hacer clase base de network manager de la cual hereden un network para el servidor
+y otro para el cliente
+
+Terminar el ping haciendo que en un update vea si sigue recibiendo los mensajes
+y en caso de que no lo pueda hacer se desconecte o eche al cliente correspondiente
